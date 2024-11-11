@@ -1,4 +1,4 @@
-[![MasterHead](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)](https://christian-nii-gyan.onrender.com/)
+<!-- [![MasterHead](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)](https://christian-nii-gyan.onrender.com/) -->
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">A passionate full-stack developer from Ghana</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
